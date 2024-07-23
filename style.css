@@ -1,0 +1,120 @@
+.body{
+    background-image: url(https://static.vecteezy.com/system/resources/thumbnails/023/805/595/small_2x/beautiful-dark-bedroom-interior-background-3d-render-bright-color-generative-ai-photo.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.logo{
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding-left: 70px;
+    padding-top: 60px;
+}
+ul{
+    
+    text-align: right;
+    margin-top: -3.5%;
+    padding-right: 50px;
+}
+.home{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-decoration: none;
+}
+li{
+    display: inline-block;
+    padding: 20px;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+.heading{
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10%;
+    font-size: 55px;
+}
+.paragraph{
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+    color: white;
+    text-align: center;
+    margin-top: -7%;
+}
+.btn{
+    border: 1px solid lightskyblue;
+    border-radius: 20px;
+    margin: 10px;
+    width: 280px;
+    height: 40px;
+    font-size: 20px;
+    background-color: transparent;
+    cursor: pointer;
+    color: white;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 25px;
+}
+.beds{
+    border: 1px solid black;
+    border-radius: 7px;
+    width: 25.4%;
+    height: 339px;
+    display: inline-block;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    margin-top: 25px;
+}
+.image{
+    width: 338px;
+}
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+}
+.btns{
+    border: 1px solid lightskyblue;
+    border-radius: 20px;
+    margin: 10px;
+    width: 280px;
+    height: 40px;
+    font-size: 20px;
+    background-color: plum;
+    cursor: pointer;
+    color: black;
+}
+.bed{
+    border: 1px solid black;
+    border-radius: 7px;
+    width: 25.4%;
+    height: 339px;
+    display: inline-block;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    margin-top: 25px; 
+}
+.bedss{
+    border: 1px solid black;
+    border-radius: 7px;
+    width: 25.4%;
+    height: 339px;
+    display: inline-block;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    margin-top: 25px;
+}
+.bd{
+    border: 1px solid black;
+    border-radius: 7px;
+    width: 25.4%;
+    height: 339px;
+    display: inline-block;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    margin-top: 25px;
+}
